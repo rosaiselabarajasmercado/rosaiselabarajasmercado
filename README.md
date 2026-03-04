@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Mi nombre es **Rosa Isela** tengo 22 años, me encuentro actualmente estudiando en el **Instituto Tecnológico de Tijuana** en  la carrera de **Ingeniería en Sistemas Computacionales**
+
 <!--
 **rosaiselabarajasmercado/rosaiselabarajasmercado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
